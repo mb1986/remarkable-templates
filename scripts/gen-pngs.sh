@@ -34,6 +34,8 @@ inkscape \
   --export-background="#ffffff" \
   --export-type="svg"  \
   --export-plain-svg \
+  --export-text-to-path \
+  --vacuum-defs \
   --export-filename="MB Frame.svg" \
   --export-width=1404 \
   --export-height=1872 \
@@ -47,6 +49,8 @@ inkscape \
   --export-background="#ffffff" \
   --export-type="svg"  \
   --export-plain-svg \
+  --export-text-to-path \
+  --vacuum-defs \
   --export-filename="MB Frame Lined.svg" \
   --export-width=1404 \
   --export-height=1872 \
@@ -84,6 +88,8 @@ inkscape \
   --export-background="#ffffff" \
   --export-type="svg"  \
   --export-plain-svg \
+  --export-text-to-path \
+  --vacuum-defs \
   --export-filename="MB Meeting.svg" \
   --export-width=1404 \
   --export-height=1872 \
@@ -97,6 +103,8 @@ inkscape \
   --export-background="#ffffff" \
   --export-type="svg"  \
   --export-plain-svg \
+  --export-text-to-path \
+  --vacuum-defs \
   --export-filename="MB Meeting Lined.svg" \
   --export-width=1404 \
   --export-height=1872 \
@@ -134,6 +142,8 @@ inkscape \
   --export-background="#ffffff" \
   --export-type="svg"  \
   --export-plain-svg \
+  --export-text-to-path \
+  --vacuum-defs \
   --export-filename="MB Sprint.svg" \
   --export-width=1404 \
   --export-height=1872 \
@@ -147,6 +157,8 @@ inkscape \
   --export-background="#ffffff" \
   --export-type="svg"  \
   --export-plain-svg \
+  --export-text-to-path \
+  --vacuum-defs \
   --export-filename="MB Sprint Lined.svg" \
   --export-width=1404 \
   --export-height=1872 \
