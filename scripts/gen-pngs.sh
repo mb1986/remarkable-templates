@@ -3,6 +3,33 @@
 cd $(dirname $0)/../templates
 
 # ==============================================================================
+#   Lines
+# ==============================================================================
+
+inkscape \
+  --export-area-page \
+  --export-background-opacity=1 \
+  --export-background="#ffffff" \
+  --export-type="png"  \
+  --export-filename="MB Lines.png" \
+  --export-width=1404 \
+  --export-height=1872 \
+  ../src/lines.svg
+
+inkscape \
+  --export-area-page \
+  --export-background-opacity=1 \
+  --export-background="#ffffff" \
+  --export-type="svg"  \
+  --export-plain-svg \
+  --export-text-to-path \
+  --vacuum-defs \
+  --export-filename="MB Lines.svg" \
+  --export-width=1404 \
+  --export-height=1872 \
+  ../src/lines.svg
+
+# ==============================================================================
 #   Frame
 # ==============================================================================
 
